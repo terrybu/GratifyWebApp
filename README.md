@@ -1,4 +1,6 @@
-# gratify
+# Gratify web application project 
+
+This is Terry Bu's web application assignment for gratify. Calendar API with picture uploading and FB login, Thanks!
 
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 4.1.4.
 
